@@ -271,6 +271,7 @@ transform: translate(-100%, 10%);
 .areatext {
   width: 100%;
   border: none;
+  color: white;
   background-color: black;
   outline: none;
   font-size: 0.94rem;
